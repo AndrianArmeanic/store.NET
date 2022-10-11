@@ -1,0 +1,7 @@
+﻿.dockerignore
+.git
+.gitignore
+.idea
+/bin
+Dockerfile
+obj
